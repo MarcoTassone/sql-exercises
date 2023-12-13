@@ -1,0 +1,1 @@
+INSERT INTO Books (title, author, genre, published_year, isbn, price, rating, stock_count, publisher, pages) VALUES ("A Journey to the Center", "JulesVern", "Adventure", 1864, 1234567890123, 12.99, 4.5, 10, "Verne Publishing", 350)
