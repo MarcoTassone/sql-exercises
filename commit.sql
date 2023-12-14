@@ -1,0 +1,5 @@
+BEGIN TRANSACTION;
+
+DELETE FROM Books WHERE books_id = 101;
+
+COMMIT;
